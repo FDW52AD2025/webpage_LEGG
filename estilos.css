@@ -1,6 +1,6 @@
 h1 {
     border:2px dotted black;
-
+    background-color:cornflowerblue;
 }
 
 h2 {
@@ -28,4 +28,21 @@ h4 {
     border-radius: 5px;      
     font-weight: bold;        
 
+}
+
+h5 {
+    background-color: red; 
+    color: white;            
+    padding: 3px 6px;        
+    border-radius: 5px;      
+    font-weight: bold;        
+
+}
+/* Quice crear una firma para todos mis trabajos */
+.firma {
+
+    color: purple;                            /* Color del texto */
+    background-color: #f0e68c;               /* Fondo opcional */
+    padding: 5px 10px;                        /* Espacio alrededor */
+    
 }
