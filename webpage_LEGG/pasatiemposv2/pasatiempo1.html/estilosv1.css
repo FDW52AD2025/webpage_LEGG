@@ -1,0 +1,13 @@
+h1 {
+    border:2px dotted black;
+    background-color:cornflowerblue;
+}
+
+h2 {
+    background-color: orange; /* Color de fondo*/
+    color: white;             /* Color del texto */
+    padding: 3px 6px;         /* Espacio alrededor del texto */
+    border-radius: 5px;       /* Bordes redondeados*/
+    font-weight: bold;        /* Texto en negrita */
+
+}

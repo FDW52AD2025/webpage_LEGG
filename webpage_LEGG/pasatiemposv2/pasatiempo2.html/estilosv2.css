@@ -1,0 +1,17 @@
+h1{
+    background-color: orange; /* Color de fondo*/
+    color: white;             /* Color del texto */
+    padding: 3px 6px;         /* Espacio alrededor del texto */
+    border-radius: 5px;       /* Bordes redondeados*/
+    font-weight: bold;        /* Texto en negrita */
+
+}
+
+h2 {
+    background-color: green; 
+    color: white;            
+    padding: 3px 6px;        
+    border-radius: 5px;      
+    font-weight: bold;        
+
+}
